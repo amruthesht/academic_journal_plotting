@@ -1,0 +1,4 @@
+# Academic journal plotting
+Academic journal suited plots using python's matplotlib and $\LaTeX$ based style template.
+
+The plot and data was used here: https://doi.org/10.48550/arXiv.2204.00587
